@@ -5,3 +5,4 @@ New line
 blah blah blah
 fgrf
 new line 112
+new_line for gui
